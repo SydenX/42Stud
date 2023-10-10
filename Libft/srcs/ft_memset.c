@@ -10,16 +10,24 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-int	ft_isprint(int c)
+void	*ft_memset(void *b, int c, size_t len)
 {
-	if (c >= 32 && c <= 127)
-		return (1);
-	return (0);
+	int		i;
+	void	*copy;
+
+	copy = b;
+	i = 0;
+	while (i < len)
+	{
+		*copy = c;
+		i++;
+	}
+	return (copy);
 }
 
 #include <stdio.h>
 int	main(int argc, char *argv[])
 {
-	printf("%d", ft_isprint(argv[1][0]));
+	printf("%s", ft_memset(argv[1]));
 	return (argc);
 }

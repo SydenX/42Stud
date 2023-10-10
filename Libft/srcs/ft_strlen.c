@@ -10,16 +10,19 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-int	ft_isprint(int c)
+int	ft_strlen(const char *s)
 {
-	if (c >= 32 && c <= 127)
-		return (1);
-	return (0);
+	int	ln;
+
+	ln = 0;
+	while (s[ln] != 0)
+		ln++;
+	return (ln);
 }
 
 #include <stdio.h>
 int	main(int argc, char *argv[])
 {
-	printf("%d", ft_isprint(argv[1][0]));
+	printf("%d", ft_strlen(argv[1]));
 	return (argc);
 }
