@@ -6,7 +6,7 @@
 /*   By: jtollena <jtollena@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/09 15:22:55 by jtollena          #+#    #+#             */
-/*   Updated: 2023/10/09 15:31:10 by jtollena         ###   ########.fr       */
+/*   Updated: 2023/10/10 09:47:39 by jtollena         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -35,7 +35,7 @@ int	ft_readfile(char *name)
 {
 	int		file;
 	int		reader;
-	char	str[1];
+	char	str[2];
 
 	file = open(name, O_RDONLY);
 	if (file == -1)

@@ -6,9 +6,11 @@
 /*   By: jtollena <jtollena@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/09 14:06:39 by jtollena          #+#    #+#             */
-/*   Updated: 2023/10/09 14:39:04 by jtollena         ###   ########.fr       */
+/*   Updated: 2023/10/10 09:19:11 by jtollena         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+void	ft_putchar(char c);
 
 int	ft_strcmp(char *s1, char *s2)
 {
@@ -32,13 +34,6 @@ void	ft_strswap(char **s1, char **s2)
 	*s1 = *s2;
 	*s2 = copy;
 }
-/*
-#include <stdio.h>
-void	ft_putchar(char c)
-{
-	printf("%c", c);
-}
-*/
 
 void	ft_putstr(char *str)
 {

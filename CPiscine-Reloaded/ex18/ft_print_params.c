@@ -6,7 +6,7 @@
 /*   By: jtollena <jtollena@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/09 13:22:14 by jtollena          #+#    #+#             */
-/*   Updated: 2023/10/09 13:25:37 by jtollena         ###   ########.fr       */
+/*   Updated: 2023/10/10 09:19:04 by jtollena         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 /*
@@ -16,6 +16,9 @@ void	ft_putchar(char c)
 	printf("%c", c);
 }
 */
+
+void	ft_putchar(char c);
+
 void	ft_putstr(char *str)
 {
 	while (*str != 0)

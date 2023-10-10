@@ -13,7 +13,7 @@ $(NAME): $(OBJ)
 	ar -rcs $(NAME) $(OBJ)
 
 $(OBJ):
-	gcc -Wall -Wextra -Werror -I $(HEADER) ${@:.o=.c} -o $@
+	gcc -Wall -Wextra -Werror -c -I $(HEADER) ${@:.o=.c} -o $@
 
 clean:
 	rm -f $(OBJ)

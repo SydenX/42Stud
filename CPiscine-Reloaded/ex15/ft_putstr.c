@@ -6,9 +6,11 @@
 /*   By: jtollena <jtollena@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/09 13:17:38 by jtollena          #+#    #+#             */
-/*   Updated: 2023/10/09 13:18:50 by jtollena         ###   ########.fr       */
+/*   Updated: 2023/10/10 09:18:55 by jtollena         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+void	ft_putchar(char c);
 
 void	ft_putstr(char *str)
 {

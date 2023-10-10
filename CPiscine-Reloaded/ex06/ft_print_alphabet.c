@@ -6,9 +6,11 @@
 /*   By: jtollena <jtollena@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/09 12:50:42 by jtollena          #+#    #+#             */
-/*   Updated: 2023/10/09 12:52:21 by jtollena         ###   ########.fr       */
+/*   Updated: 2023/10/10 09:18:22 by jtollena         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+void	ft_putchar(char c);
 
 void	ft_print_alphabet(void)
 {
