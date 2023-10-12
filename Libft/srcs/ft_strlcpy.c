@@ -12,35 +12,38 @@
 
 #include <string.h>
 
-void	*ft_memmove(void *dst, const void *src, size_t len)
+int	ft_strlen(const char *src)
 {
-	const unsigned char	*srccpy;
-	unsigned char		*copy;
-	int					i;
+	int	ln;
 
+	ln = 0;
+	while (src[ln] != 0)
+		ln++;
+	return (ln);
+}
 
-	if (dst > src){
-		while (len > 0)
-		{
-			copy[len - 1] = srccpy[len - 1];
-			len--;
-		}
-	}
-	else
+size_t	ft_strlcpy(char *dst, const char *src, size_t dstsize)
+{
+	int	i;
+
+	i = 0;
+	while (i < (int)dstsize - 1 && src[i] != 0)
 	{
-		while (i < len - 1)
-		{
-			copy[i] = srccpy[i];
-			i++;
-		}
-		
+		dst[i] = src[i];
+		i++;
 	}
-	return (dst);
+	if (dstsize != 0)
+		dst[i] = 0;
+	
+	return (ft_strlen(src));
 }
 
 #include <stdio.h>
+#include <stdlib.h>
 int	main(int argc, char *argv[])
 {
-	printf("%s", ft_memmove(argv[1], argv[2], 4));
+	char *dst = malloc(3);
+	printf("%zu\n", ft_strlcpy(dst, argv[1], 3));
+	printf("%s", dst);
 	return (argc);
 }
