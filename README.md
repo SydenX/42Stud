@@ -13,6 +13,10 @@
 | [<img src="https://img.shields.io/badge/push_swap-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/42Stud) | <img src="https://img.shields.io/badge/02-3366cc?style=plasticc"/> | <img src="https://img.shields.io/badge/Forbidden-red?style=flat-square" /> | <img src="https://img.shields.io/badge/C-blue?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/TBD-red?style=flat-square" /> |
 | [<img src="https://img.shields.io/badge/so_long-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/42Stud) | <img src="https://img.shields.io/badge/02-3366cc?style=plasticc"/> | <img src="https://img.shields.io/badge/Forbidden-red?style=flat-square" /> | <img src="https://img.shields.io/badge/C-blue?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/TBD-red?style=flat-square" /> |
 
+### My logtime;
+| Septembre | Octobre | Novembre | Decembre | .. |
+| :---: | :---: | :---: | :---: | :---: |
+| 171h12 | 45h17 | | |
 
 ### Just some tests;
 | TEST ZONE | Rank | Status | Type | Final Score | Last Activity |
