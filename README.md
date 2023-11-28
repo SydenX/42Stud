@@ -16,7 +16,7 @@
 ### My logtime;
 | Septembre | Octobre | Novembre | Decembre | .. |
 | :---: | :---: | :---: | :---: | :---: |
-| 171h12 | 45h17 | | |
+| 171h12 | 45h17 | 52h24 (28/11 update)| |
 
 ### Just some tests;
 | TEST ZONE | Rank | Status | Type | Final Score | Last Activity |
