@@ -12,13 +12,19 @@
 | [<img src="https://img.shields.io/badge/minitalk-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/02-minitalk) | <img src="https://img.shields.io/badge/02-3366cc?style=plasticc"/> | <img src="https://img.shields.io/badge/Done-success?style=flat-square" /> | <img src="https://img.shields.io/badge/C-blue?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/100%20%2F%20100-ccff66?style=flat-square" /> |
 | [<img src="https://img.shields.io/badge/push_swap-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/02-push_swap) | <img src="https://img.shields.io/badge/02-3366cc?style=plasticc"/> | <img src="https://img.shields.io/badge/Done-success?style=flat-square" /> | <img src="https://img.shields.io/badge/C-blue?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/90%20%2F%20100-ccff66?style=flat-square" /> |
 | [<img src="https://img.shields.io/badge/so_long-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/02-so_long) | <img src="https://img.shields.io/badge/02-3366cc?style=plasticc"/> | <img src="https://img.shields.io/badge/Done-success?style=flat-square" /> | <img src="https://img.shields.io/badge/C-blue?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/★%20110%20%2F%20100%20★-gold?style=flat-square" /> |
-| [<img src="https://img.shields.io/badge/so_long-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/03-minishell) | <img src="https://img.shields.io/badge/03-ffd966?style=plasticc"/> | <img src="https://img.shields.io/badge/In%20Progress-orange?style=flat-square" /> | <img src="https://img.shields.io/badge/C-blue?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/TBD-red?style=flat-square&labelcolor=grey" /> |
-| [<img src="https://img.shields.io/badge/so_long-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/03-philosopher) | <img src="https://img.shields.io/badge/03-ffd966?style=plasticc"/> | <img src="ttps://img.shields.io/badge/Searching%20group-red?style=flat-square&labelcolor=grey" /> | <img src="https://img.shields.io/badge/C-blue?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/TBD-red?style=flat-square&labelcolor=grey" /> |
+| [<img src="https://img.shields.io/badge/philosophers-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/03-philosophers) | <img src="https://img.shields.io/badge/03-ffd966?style=plasticc"/> | <img src="https://img.shields.io/badge/In%20Progress-orange?style=flat-square" /> | <img src="https://img.shields.io/badge/C-blue?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/TBD-red?style=flat-square&labelcolor=grey" /> |
+| [<img src="https://img.shields.io/badge/minishell-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/03-minishell) | <img src="https://img.shields.io/badge/03-ffd966?style=plasticc"/> | <img src="https://img.shields.io/badge/Searching group-red?style=flat-square&labelcolor=grey" /> | <img src="https://img.shields.io/badge/C-blue?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/TBD-red?style=flat-square&labelcolor=grey" /> |
 
 ### My logtime;
-| Septembre | Octobre | Novembre | Decembre | .. |
+2023
+| Septembre | Octobre | Novembre | Decembre | Tot. |
 | :---: | :---: | :---: | :---: | :---: |
-| 171h12 | 45h17 | 64h01 | |
+| 171h12 | 45h17 | 64h01 | 54h22 | 334h52 |
+
+2024
+| Janvier | Fevrier | Mars | Avril | .. |
+| :---: | :---: | :---: | :---: | :---: |
+| | | | |
 
 ### Just some tests;
 | TEST ZONE | Rank | Status | Type | Final Score | Last Activity |
