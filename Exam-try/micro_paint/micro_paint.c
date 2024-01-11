@@ -6,7 +6,7 @@
 /*   By: jtollena <jtollena@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/11 08:45:45 by jtollena          #+#    #+#             */
-/*   Updated: 2024/01/11 12:09:29 by jtollena         ###   ########.fr       */
+/*   Updated: 2024/01/11 13:53:41 by jtollena         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -48,9 +48,7 @@ int writeArea(t_area *area)
 
 int isInBorder(float x, float y, t_pixel rec)
 {
-	if (((rec.width + rec.x) - x >= 0 && (rec.width + rec.x) - x <= 1) || ((rec.height + rec.y) - y >= 0 && (rec.height + rec.y) - y <= 1))
-		return (1);
-	if (((rec.width + rec.x) - x >= rec.width && (rec.width + rec.x) - x <= rec.width+1) || ((rec.height + rec.y) - y >= rec.height && (rec.height + rec.y) - y <= rec.height+1))
+	if ((x - rec.x < 1.00000000 || (rec.width + rec.x) - x < 1.00000000) || (y - rec.y < 1.00000000 || (rec.height + rec.y) - y < 1.00000000))
 		return (1);
 	return (0);
 }
@@ -115,6 +113,8 @@ int initBackGround(FILE *file)
 
 	if (params != 3)
 		return (1);
+	if (firstpixel.width < 0.000000000000000 || firstpixel.height < 0.000000000000000)
+		return (write(1, "Error: Operation file corrupted\n", 32), 1);
 	area.pixels = malloc(((firstpixel.width * firstpixel.height)) * sizeof(t_area));
 	area.size = firstpixel.width * firstpixel.height;
 	area.maxheight = firstpixel.height;
