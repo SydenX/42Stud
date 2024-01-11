@@ -16,9 +16,15 @@
 | [<img src="https://img.shields.io/badge/minishell-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/03-minishell) | <img src="https://img.shields.io/badge/03-ffd966?style=plasticc"/> | <img src="https://img.shields.io/badge/Searching group-red?style=flat-square&labelcolor=grey" /> | <img src="https://img.shields.io/badge/C-blue?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/TBD-red?style=flat-square&labelcolor=grey" /> |
 
 ### My logtime;
-| Septembre | Octobre | Novembre | Decembre | .. |
+2023
+| Septembre | Octobre | Novembre | Decembre | Tot. |
 | :---: | :---: | :---: | :---: | :---: |
-| 171h12 | 45h17 | 64h01 | |
+| 171h12 | 45h17 | 64h01 | 54h22 | 334h52 |
+
+2024
+| Janvier | Fevrier | Mars | Avril | .. |
+| :---: | :---: | :---: | :---: | :---: |
+| | | | |
 
 ### Just some tests;
 | TEST ZONE | Rank | Status | Type | Final Score | Last Activity |
