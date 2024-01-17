@@ -52,9 +52,31 @@ int	setup_board(t_board *board, FILE *fd)
 	return (1);
 }
 
-int	is_in(t_board *board, t_rect rect)
+double	fabs(double d)
 {
-	
+	if (d < 0.00000000)
+		return (-d);
+	return (d);
+}
+
+int	is_in_border(t_rect rect, t_pixel pixel)
+{
+	if (fabs(((float)pixel.x) - rect.x) < 1.00000000 || fabs(((float)pixel.x) - (rect.x + rect.width)) < 1.00000000
+		|| fabs(((float)pixel.y) - rect.y) < 1.00000000 || fabs(((float)pixel.y) - (rect.y + rect.height)) < 1.00000000)
+		return (1);
+	return (0);
+}
+
+int	is_in(t_rect rect, t_pixel pixel)
+{
+	if (rect.x <= (float)pixel.x && (float)pixel.x <= (rect.x + rect.width)){
+		if (rect.y <= (float)pixel.y && (float)pixel.y <= (rect.y + rect.height)){
+			if (rect.type == 'r')
+				return (is_in_border(rect, pixel));
+			else
+				return (1);
+		}
+	}
 	return (0);
 }
 
@@ -73,7 +95,7 @@ int	setup_rectangle(t_board *board, FILE *fd)
 		i = 0;
 		while (i < board->height * board->width)
 		{
-			if (is_in(board, rect) == 1)
+			if (is_in(rect, board->pixels[i]) == 1)
 				board->pixels[i].color = rect.color;
 			i++;
 		}
