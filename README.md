@@ -31,7 +31,7 @@
 2024
 | Janvier | Fevrier | Mars | Avril | .. |
 | :---: | :---: | :---: | :---: | :---: |
-| 83h22 | 82h00 | | |
+| 83h22 | 82h00 | 94h35(Bug)| |
 
 ### Just some tests;
 | TEST ZONE | Rank | Status | Type | Final Score | Last Activity |
