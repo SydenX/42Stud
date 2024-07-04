@@ -20,7 +20,7 @@
 | [<img src="https://img.shields.io/badge/CPP 02-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/04-CPP-2) | <img src="https://img.shields.io/badge/04-deff66?style=plasticc"/> | <img src="https://img.shields.io/badge/Done-success?style=flat-square" /> | <img src="https://img.shields.io/badge/C++-yellow?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/100%20%2F%20100-ccff66?style=flat-square" /> |
 | [<img src="https://img.shields.io/badge/CPP 03-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/04-CPP-3) | <img src="https://img.shields.io/badge/04-deff66?style=plasticc"/> | <img src="https://img.shields.io/badge/Done-success?style=flat-square" /> | <img src="https://img.shields.io/badge/C++-yellow?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/100%20%2F%20100-ccff66?style=flat-square" /> |
 | [<img src="https://img.shields.io/badge/CPP 04-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/04-CPP-4) | <img src="https://img.shields.io/badge/04-deff66?style=plasticc"/> | <img src="https://img.shields.io/badge/Done-success?style=flat-square" /> | <img src="https://img.shields.io/badge/C++-yellow?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/100%20%2F%20100-ccff66?style=flat-square" /> |
-| [<img src="https://img.shields.io/badge/Cub3D%20/%20MiniRT-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/04-Cub3D) | <img src="https://img.shields.io/badge/04-deff66?style=plasticc"/> | <img src="https://img.shields.io/badge/Searching_group-red?style=flat-square" /> | <img src="https://img.shields.io/badge/C-blue?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/TBD-red?style=flat-square&labelcolor=grey" /> |
+| [<img src="https://img.shields.io/badge/Cub3D%20/%20MiniRT-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/04-Cub3D) | <img src="https://img.shields.io/badge/04-deff66?style=plasticc"/> | <img src="https://img.shields.io/badge/In%20Progress-orange?style=flat-square" /> | <img src="https://img.shields.io/badge/C-blue?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/TBD-red?style=flat-square&labelcolor=grey" /> |
 
 ### My logtime;
 2023
@@ -29,12 +29,13 @@
 | 171h12 | 45h17 | 64h01 | 54h22 | 334h52 |
 
 2024
-| Janvier | Fevrier | Mars | Avril | .. |
-| :---: | :---: | :---: | :---: | :---: |
-| 83h22 | 82h00 | 94h35(Bug)| |
+| Janvier | Fevrier | Mars | Avril | Mai | Juin | .. |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 83h22 | 82h00 | 94h35(Bug)| 44h40 | 0h00 | 37h02 |
 
 ### Just some tests;
 | TEST ZONE | Rank | Status | Type | Final Score | Last Activity |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://img.shields.io/badge/test 1-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/42Stud) | <img src="https://img.shields.io/badge/T-ff9966?style=plasticc"/> | <img src="https://img.shields.io/badge/In%20Progress-orange?style=flat-square" /> | <img src="https://img.shields.io/badge/C-blue?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/★%20120%20%2F%20100%20★-gold?style=flat-square " /> | <img src="https://img.shields.io/github/last-commit/SydenX/42Stud?label=&style=flat-square" /> |
 | [<img src="https://img.shields.io/badge/so_long le test-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/42Stud) | <img src="https://img.shields.io/badge/T-ff9966?style=plasticc"/> | <img src="https://img.shields.io/badge/Done-success?style=flat-square" /> | <img src="https://img.shields.io/badge/C-blue?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/80%20%2F%20100-ccff66?style=flat-square" /> | <img src="https://img.shields.io/github/last-commit/SydenX/42Stud?label=&style=flat-square" /> |
+| [<img src="https://img.shields.io/badge/ct mieux avant-grey?style=for-the-badge&labelcolor=white"/>](https://github.com/SydenX/42Stud) | <img src="https://img.shields.io/badge/T-ff9966?style=plasticc"/> | <img src="https://img.shields.io/badge/Searching_group-red?style=flat-square" /> | <img src="https://img.shields.io/badge/C-blue?style=plasticc&labelcolor=grey" /> | <img src="https://img.shields.io/badge/TBD-red?style=flat-square&labelcolor=grey" /> | <img src="https://img.shields.io/github/last-commit/SydenX/42Stud?label=&style=flat-square" /> |
