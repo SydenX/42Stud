@@ -34,9 +34,9 @@
 | 171h12 | 45h17 | 64h01 | 54h22 | 334h52 |
 
 2024
-| Janvier | Fevrier | Mars | Avril | Mai | Juin | .. |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 83h22 | 82h00 | 94h35(Bug)| 44h40 | 0h00 | 37h02 |
+| Janvier | Fevrier | Mars | Avril | Mai | Juin | Juillet | Aout | .. |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 83h22 | 82h00 | 94h35(Bug)| 44h40 | 0h00 | 37h02 | 51h16 | 24h19 | |
 
 ### Just some tests;
 | TEST ZONE | Rank | Status | Type | Final Score | Last Activity |
