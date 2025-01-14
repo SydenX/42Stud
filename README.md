@@ -36,9 +36,14 @@
 | 171h12 | 45h17 | 64h01 | 54h22 | 334h52 |
 
 2024
-| Janvier | Fevrier | Mars | Avril | Mai | Juin | Juillet | Aout | Septembre | Octobre | Novembre |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 83h22 | 82h00 | 94h35(Bug)| 44h40 | 0h00 | 37h02 | 51h16 | 25h07 | 55h31 | 32h13 | 15h52 |
+| Janvier | Fevrier | Mars | Avril | Mai | Juin | Juillet | Aout | Septembre | Octobre | Novembre | Decembre | Tot. Annuel | Tot. Alltime |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 83h22 | 82h00 | 94h35(Bug)| 44h40 | 0h00 | 37h02 | 51h16 | 25h07 | 55h31 | 32h13 | 15h52 | 2h48 | 524h26 | 859h18 (35.8j) |
+
+2025
+| Janvier | ... |
+| :---: | :---: |
+| | |
 
 ### Just some tests;
 | TEST ZONE | Rank | Status | Type | Final Score | Last Activity |
